@@ -21,12 +21,12 @@ h1, h2, h3, h4, h5, h6, a {
     color: white;
 }
 
-.titreArticle {
+.titreAnimal {
     margin-bottom : 0px;
 }
 
 #global {
-    /*    min-height: 100%;  /* Voir commentaire sur html et body plus haut */
+    /*    min-height: 100%;  /* Voir health_record sur html et body plus haut */
     background: #333534;
     width: 70%;
     margin: auto;	/* Permet de centrer la div */

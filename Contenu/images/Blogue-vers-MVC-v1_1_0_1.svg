@@ -18,7 +18,7 @@ PUBLIC "-//W3C//DTD SVG 1.1//EN"
    <line x1="379" y1="77" x2="375.46446609407" y2="80.535533905933" style="stroke:#bbb;stroke-width:2;"/>
    <line x1="379" y1="77" x2="375.46446609407" y2="73.464466094067" style="stroke:#bbb;stroke-width:2;"/>
    <rect width="96" height="20" x="384" y="47" style="fill:#007;stroke:black;"/>
-   <text width="96" height="20" x="389" y="61" style="fill:#fff;" font-family="Arial" font-size="16px"> articles</text>
+   <text width="96" height="20" x="389" y="61" style="fill:#fff;" font-family="Arial" font-size="16px"> animals</text>
    <rect width="96" height="20" x="384" y="67" style="fill:#aea;stroke:black;"/>
    <text width="96" height="20" x="389" y="81" style="fill:black;" font-family="Arial" font-size="16px">id</text>
    <rect width="96" height="20" x="384" y="87" style="fill:none;stroke:black;"/>
@@ -34,11 +34,11 @@ PUBLIC "-//W3C//DTD SVG 1.1//EN"
    <rect width="96" height="20" x="384" y="187" style="fill:none;stroke:black;"/>
    <text width="96" height="20" x="389" y="201" style="fill:black;" font-family="Arial" font-size="16px">type</text>
    <rect width="112" height="20" x="53" y="174" style="fill:#007;stroke:black;"/>
-   <text width="112" height="20" x="58" y="188" style="fill:#fff;" font-family="Arial" font-size="16px"> commentaires</text>
+   <text width="112" height="20" x="58" y="188" style="fill:#fff;" font-family="Arial" font-size="16px"> health_records</text>
    <rect width="112" height="20" x="53" y="194" style="fill:#aea;stroke:black;"/>
    <text width="112" height="20" x="58" y="208" style="fill:black;" font-family="Arial" font-size="16px">id</text>
    <rect width="112" height="20" x="53" y="214" style="fill:none;stroke:black;"/>
-   <text width="112" height="20" x="58" y="228" style="fill:black;" font-family="Arial" font-size="16px">article_id</text>
+   <text width="112" height="20" x="58" y="228" style="fill:black;" font-family="Arial" font-size="16px">animal_id</text>
    <rect width="112" height="20" x="53" y="234" style="fill:none;stroke:black;"/>
    <text width="112" height="20" x="58" y="248" style="fill:black;" font-family="Arial" font-size="16px">date</text>
    <rect width="112" height="20" x="53" y="254" style="fill:none;stroke:black;"/>
